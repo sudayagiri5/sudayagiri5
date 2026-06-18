@@ -10,7 +10,7 @@ Java · Spring Boot · React · Angular · AWS · Kafka · Microservices · Pyth
 [![Email](https://img.shields.io/badge/Email-sairaghavuk@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sairaghavuk@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-sudayagiri5-181717?style=flat&logo=github&logoColor=white)](https://github.com/sudayagiri5)
 
-*Chicago, IL · Open to Remote / Hybrid*
+*Chicago, IL · Open to Relocation*
 
 </div>
 
@@ -66,7 +66,7 @@ Telecom customer management, billing systems, and service provisioning. Java 11,
 ## Education
 
 **M.S. Information Technology & Management** · Illinois Institute of Technology, Chicago *(Dec 2025)*
-STEM-designated (CIP 11.0103) · Specialization: Management Information Systems
+STEM-designated · Specialization: Management Information Systems
 Coursework: Project Management for IT, IT Auditing, Process Engineering, Service-Oriented Architectures, Big Data Infrastructure
 
 **B.E. Electrical Engineering** · RMD Engineering College, Chennai *(Jun 2021)*
@@ -77,7 +77,7 @@ Coursework: Project Management for IT, IT Auditing, Process Engineering, Service
 
 - Building **AtlasAssist** and **FlowOps Commander**, two AI-agent projects targeting production-grade agentic workflows
 - Pursuing **AWS Solutions Architect Associate (SAA-C03)**
-- Open to Senior Full-Stack, AI/Automation Engineer, and Technical BA/PM roles (remote preferred)
+- Open to Senior Full-Stack Software, AI/Automation Engineer, and Technical BA/PM roles
 
 ---
 
